@@ -1,0 +1,44 @@
+﻿生成启动时间为 2016/4/19 19:12:08。
+     1>项目“E:\school\MFC课程\Test0237\Test0237\Test0237\Test0237.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\Test0237.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Test0237.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Test0237View.cpp
+         Test0237View.cpp
+     1>Test0237View.cpp(168): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>Test0237View.cpp(170): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>Test0237View.cpp(170): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>Test0237View.cpp(263): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Test0237View.cpp(252): warning C4101: “y1”: 未引用的局部变量
+     1>Test0237View.cpp(293): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\school\MFC课程\Test0237\Test0237\Release\Test0237.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\Test0237.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\school\MFC课程\Test0237\Test0237\Release\Test0237.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\school\MFC课程\Test0237\Test0237\Release\Test0237.lib" /MACHINE:X86 Release\Test0237.res
+         Release\Circle0237.obj
+         Release\CircleDlg0237.obj
+         Release\Line0237.obj
+         Release\LineDlg0237.obj
+         Release\MainFrm.obj
+         Release\Rectangle0237.obj
+         Release\RectDlg0237.obj
+         Release\stdafx.obj
+         Release\Test0237.obj
+         Release\Test0237Doc.obj
+         Release\Test0237View.obj
+         Release\Triangle0237.obj
+         Release\TriangleDlg0237.obj
+         正在生成代码
+         已完成代码的生成
+         Test0237.vcxproj -> E:\school\MFC课程\Test0237\Test0237\Release\Test0237.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\school\MFC课程\Test0237\Test0237\Release\Test0237.exe;#1" /manifest Release\Test0237.exe.intermediate.manifest "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\Test0237.unsuccessfulbuild”。
+         正在对“Release\Test0237.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\school\MFC课程\Test0237\Test0237\Test0237\Test0237.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.63
